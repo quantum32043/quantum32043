@@ -6,7 +6,13 @@
 ## 🛠 Skills
 ![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,mongo,docker,rabbitmq,ts,react,html,css,git)
 ## 🔗 Links
-| [![LinkedIn](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/alexander-marchenko-34188328a/details/skills/) | [![Telegram](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg)](https://t.me/f0ggy_m1nd) | [![GitLab](https://github.com/CLorant/readme-social-icons/raw/main/large/filled/gitlab.svg)](https://gitlab.com/quantum32043) |
-|:---:|:---:|:---:|
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://www.linkedin.com/in/andrey-krutko" target="_blank" rel="noreferrer">
+    <img align="left" src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/linkedin.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/obgdete" target="_blank" rel="noreferrer">
+    <img src="https://github.com/CLorant/readme-social-icons/raw/main/large/filled/telegram.svg" width="40" height="40" alt="Telegram" />
+  </a>
+</div>
 
 
